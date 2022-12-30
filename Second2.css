@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+    color: black;
+}
+.Title {
+    background-color: rgb(216, 216, 0);
+}
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+article {
+    background-color: coral;
+}
